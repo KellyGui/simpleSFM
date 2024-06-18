@@ -1,0 +1,3 @@
+[submodule "3rdparty/0.27-maintenance"]
+	path = 3rdparty/0.27-maintenance
+	url = https://github.com/Exiv2/exiv2.git
